@@ -1,0 +1,16 @@
+.left {
+	border: 3px solid red;
+	margin-left:  5px;
+}
+
+#third > p, h1 {
+	display: none;
+}
+
+#second {
+	visibility: hidden;
+} 
+
+#second > div > img {
+	visibility:  visible;
+}
