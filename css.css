@@ -3,14 +3,6 @@
 	margin-left:  5px;
 }
 
-#third > p, h1 {
-	display: none;
-}
-
-#second {
-	visibility: hidden;
-} 
-
-#second > div > img {
-	visibility:  visible;
+div > p {
+	font-size: 40px;
 }
